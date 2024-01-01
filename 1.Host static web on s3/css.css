@@ -1,0 +1,67 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: #eee;
+    color: #222;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 50px auto;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+  
+  header {
+    text-align: center;
+  }
+  
+  h1 {
+    margin-bottom: 10px;
+  }
+  
+  .contact-info {
+    font-style: italic;
+    color: #777;
+  }
+  
+  .about {
+    margin-bottom: 20px;
+  }
+  
+  section {
+    margin-bottom: 30px;
+  }
+  
+  h2 {
+    color: #54AFE4;
+  }
+  
+  .job,
+  .school,
+  .project,
+  .skill {
+    margin-bottom: 20px;
+  }
+  
+  .duration,
+  .position,
+  .degree {
+    font-weight: bold;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  ul li {
+    margin-bottom: 5px;
+  }
+  
+  p {
+    line-height: 1.5;
+  }
+  
