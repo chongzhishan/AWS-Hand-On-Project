@@ -12,5 +12,4 @@
 
 important note: make sure choose us-east-1a
 
-## Proof
-![](https://imgur.com/n3Ozge5)
+
